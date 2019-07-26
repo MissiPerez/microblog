@@ -53,4 +53,7 @@ Add a debug launch configuration for Flask to your project.  It should look like
 
 `(venv) $ flask run`
 
+# Part 2 of MicroBlog 
+
+Create templates using part 2 of the Flask Mega Tutorial series
 
